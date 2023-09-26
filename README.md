@@ -12,4 +12,4 @@ Leveraging differences in the diffusion coefficients of various ions, our system
 
 This repository contains code that simulates the operation of the RIMS system. It also serves as an infrastructure for future AI simulations aimed at optimizing the ratchet's parameters to achieve the most effective ion separation.
 
-For more information about our research and the work being done at Tel Aviv University's Energy Devices Research Lab, please visit our [research page](https://www.edlab.sites.tau.ac.il/research).
+For more information about our research and the work being done at Tel Aviv University's Energy Devices Research Lab, please visit the [lab page](https://www.edlab.sites.tau.ac.il/research).
